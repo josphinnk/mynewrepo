@@ -1,0 +1,5 @@
+What is the purpose of the Jenkinsfile, and how is it used in Jenkins pipeline projects?
+What are some common build triggers in Jenkins?
+How do you integrate Jenkins with version control systems like Git?
+What is the purpose of Jenkins slave nodes, and how do you set up and manage them?
+Explain the benefits of using Docker with Jenkins for build and deployment processes.
